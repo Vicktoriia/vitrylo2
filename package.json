@@ -1,8 +1,8 @@
 {
-  "name": "vitrylo",
+  "name": "vitrylo2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Vicktoriia.github.io/vitrylo/",
+  "homepage": "https://Vicktoriia.github.io/vitrylo2/",
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@testing-library/jest-dom": "^5.16.3",
