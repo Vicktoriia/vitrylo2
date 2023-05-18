@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vitrylo/static/css/main.ae42ac5f.css",
+    "main.js": "/vitrylo/static/js/main.e2a43810.js",
+    "index.html": "/vitrylo/index.html",
+    "main.ae42ac5f.css.map": "/vitrylo/static/css/main.ae42ac5f.css.map",
+    "main.e2a43810.js.map": "/vitrylo/static/js/main.e2a43810.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.e2a43810.js"
+  ]
+}
