@@ -1,4 +1,5 @@
 import React from 'react';
+import logo from '../img/logo.svg';
 
 export const Navigation = props => {
   return (
@@ -18,11 +19,7 @@ export const Navigation = props => {
             <span className="icon-bar"></span>{' '}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            <img
-              className="header__logo logo"
-              src="img/logo.svg"
-              alt="logo"
-            ></img>
+            <img className="header__logo logo" src={logo} alt="" />
             <span>Vitrylo</span>
           </a>{' '}
         </div>
