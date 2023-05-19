@@ -18,9 +18,11 @@ export const Navigation = props => {
             <span className="icon-bar"></span>{' '}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            <img className="header__logo logo" width="10px" height="16px"
-               href="img/logo.svg" alt='logo'>
-            </img>
+            <img
+              className="header__logo logo"
+              src="img/logo.svg"
+              alt="logo"
+            ></img>
             <span>Vitrylo</span>
           </a>{' '}
         </div>

@@ -88,12 +88,9 @@ hr {
   font-size: 50px;
   transition: all 0.5s;
   color: #fff;
-  width: 80px;
-  height: 80px;
+  width: 1500px;
+  height: 100px;
   padding: 10px 10px;
-  border-radius: 50%;
-  background: linear-gradient(to right, #5c5d64 0%, #8d8f90 100%);
-  color: red;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
 
