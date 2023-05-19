@@ -9,7 +9,7 @@ import { Testimonials } from './components/testimonials';
 import { Contact } from './components/contact';
 import JsonData from './data/data.json';
 import './App.css';
-import './css/style.css'
+import './css/style.css';
 import Swiper from 'swiper';
 
 export const scroll = new Swiper('a[href*="#"]', {

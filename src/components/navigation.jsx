@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from '../img/logo.svg';
 
-export const Navigation = props => {
+export const Navigation = (props) => {
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
       <div className="container">
