@@ -19,9 +19,9 @@ export const Navigation = props => {
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
             <svg className="header__logo logo" width="10px" height="16px">
-              <use href="/src/logo.svg"></use>
+              <use href="img/logo.svg"></use>
             </svg>
-            Vitrylo
+            <span>Vitrylo</span>
           </a>{' '}
         </div>
 
