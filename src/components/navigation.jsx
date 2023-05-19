@@ -11,17 +11,18 @@ export const Navigation = (props) => {
             data-toggle="collapse"
             data-target="#bs-example-navbar-collapse-1"
           >
-            {" "}
-            <span className="sr-only">Toggle navigation</span>{" "}
-            <span className="icon-bar"></span>{" "}
-            <span className="icon-bar"></span>{" "}
-            <span className="icon-bar"></span>{" "}
+            {' '}
+            <span className="sr-only">Toggle navigation</span>{' '}
+            <span className="icon-bar"></span>{' '}
+            <span className="icon-bar"></span>{' '}
+            <span className="icon-bar"></span>{' '}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            <i class="fa fa-lightbulb-o">
-              <span>GRANDEX</span>
-            </i>
-          </a>{" "}
+            <svg className="header__logo logo" width="10px" height="16px">
+              <use href="/src/logo.svg"></use>
+            </svg>
+            <span>Vitrylo</span>
+          </a>{' '}
         </div>
 
         <div
@@ -37,11 +38,6 @@ export const Navigation = (props) => {
             <li>
               <a href="#services" className="page-scroll">
                 Services
-              </a>
-            </li>
-            <li>
-              <a href="#team" className="page-scroll">
-                Team
               </a>
             </li>
             <li>
