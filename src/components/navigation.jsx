@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react';
 
-export const Navigation = (props) => {
+export const Navigation = props => {
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
       <div className="container">
@@ -21,7 +21,7 @@ export const Navigation = (props) => {
             <svg className="header__logo logo" width="10px" height="16px">
               <use href="/src/logo.svg"></use>
             </svg>
-            <span>Vitrylo</span>
+            Vitrylo
           </a>{' '}
         </div>
 
