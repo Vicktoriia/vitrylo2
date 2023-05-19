@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/vitrylo2/static/css/main.ae42ac5f.css",
-    "main.js": "/vitrylo2/static/js/main.5b6088c1.js",
+    "main.css": "/vitrylo2/static/css/main.572e8e61.css",
+    "main.js": "/vitrylo2/static/js/main.a2b1dc70.js",
+    "static/media/about.jpg": "/vitrylo2/static/media/about.a583165ca9b1e18cefb9.jpg",
+    "static/media/intro-bg.jpg": "/vitrylo2/static/media/intro-bg.c04a3f24d0fbf261bfb6.jpg",
+    "static/media/logo.svg": "/vitrylo2/static/media/logo.198ca80745e25067f7c3e9e9dbafafc4.svg",
     "index.html": "/vitrylo2/index.html",
-    "main.ae42ac5f.css.map": "/vitrylo2/static/css/main.ae42ac5f.css.map",
-    "main.5b6088c1.js.map": "/vitrylo2/static/js/main.5b6088c1.js.map"
+    "main.572e8e61.css.map": "/vitrylo2/static/css/main.572e8e61.css.map",
+    "main.a2b1dc70.js.map": "/vitrylo2/static/js/main.a2b1dc70.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae42ac5f.css",
-    "static/js/main.5b6088c1.js"
+    "static/css/main.572e8e61.css",
+    "static/js/main.a2b1dc70.js"
   ]
 }
