@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vitrylo2/static/css/main.ae42ac5f.css",
-    "main.js": "/vitrylo2/static/js/main.2338fcff.js",
+    "main.js": "/vitrylo2/static/js/main.d0781f11.js",
     "index.html": "/vitrylo2/index.html",
     "main.ae42ac5f.css.map": "/vitrylo2/static/css/main.ae42ac5f.css.map",
-    "main.2338fcff.js.map": "/vitrylo2/static/js/main.2338fcff.js.map"
+    "main.d0781f11.js.map": "/vitrylo2/static/js/main.d0781f11.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.2338fcff.js"
+    "static/js/main.d0781f11.js"
   ]
 }
